@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University of Michigan Football Activity</title>
+    <!--DO NOT CHANGE CODE-->
+    <!---------------------->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: start;
+            background-color: grey;
+        }
+        #content {
+            padding: 20px;
+            border: 2px solid #ffcb05;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 10px;
+            background-color: #ffffff;
+        }
+        button {
+            padding: 10px;
+            font-size: 16px;
+            background-color: #ffcb05;
+            color: #003366;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        button:hover {
+            background-color: #d88a48;
+        }
+        #message {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #003366;
+        }
+        .highlight {
+            background-color: #ffeb3b;
+            padding: 5px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="content">
+        <h1>Go Blue!</h1>
+        <button id="changeTitleButton" type="button" onclick="changeTitle()">Change Title</button>
+        <div id="message"></div>
+        <button id="addMessageButton">Add Game Day Message</button>
+
+        <h2>Stars of the 2023 Season:</h2>
+        <ul id="playerList">
+            <li>J J McCarthy</li>
+            <li>Blake Corum</li>
+            <li>Will Johnson</li>
+            <li>Zak Zinter</li>
+            <li>Donovan Edwards</li>
+        </ul>
+        <p>
+            <b>URL of this page :</b> <span id = "URL"></span><br/>
+            <b>Number of list items on this page :</b> <span id = "items"></span><br/>
+            <b>Current date/time :</b> <span id = "time"></span><br/>
+        </p>
+        <button type="button" onClick="displayInformation()">Display Information</button>
+    </div>
+    <!---------------->
+
+    <script>
+
+        //YOUR CODE GOES HERE
+        function changeTitle() {
+            // Step 1: Change the h1 element to "Change Michigan Football!"
+            document.querySelector("h1").textContent = "Change Michigan Football!";
+            
+            // Step 2: Log the message "Title has been changed!" to the console
+            console.log("Title has been changed!");
+            
+            // Step 3: Change the background color to #003366
+            document.body.style.backgroundColor = "#003366";
+        }
+        
+        // Step 4: Add an event listener to the "Add Game Day Message" button
+        document.getElementById("addMessageButton").addEventListener("click", function() {
+            // Create an element 'p' and add a message "2023 Champions!" to it
+            const gameDayMessage = document.createElement("p");
+            gameDayMessage.textContent = "2023 Champions!";
+            document.getElementById("message").appendChild(gameDayMessage); // Add to the message div
+        });
+        
+        // Step 5: Use a conditional statement for playerItems
+        const playerItems = document.querySelectorAll("#playerList li");
+        if (playerItems.length > 5) {
+            console.log("Go blue, so many great players in one season!");
+        } else if (playerItems.length > 4) {
+            console.log("Go blue, so many great players in one season!");
+        }
+        
+        //Try it out with length > 4
+
+        function displayInformation() {
+            // Step 6: Update the three span elements using ONLY JavaScript
+
+        }
+    </script>
+</body>
+</html>
