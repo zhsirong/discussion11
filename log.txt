@@ -18,7 +18,18 @@ Or so they thought…
 ##New Commit – michael_rebase_returns()
 It was a quiet afternoon. Snow drifted against the windows of the SI 504 lecture hall.
 The class was gathered for a memorial read-aloud. On the wall hung a gilded portrait of Professor Hess, his gaze frozen in grayscale nobility.
+“Never left,” he said. “Not for vengeance. Not for regret.
+504 spirit never dies.”
 
+The room erupted.
+
+Students screamed. Some wept. Others high-fived across the room.
+A spontaneous standing ovation broke out. Someone yelled “merge conflict resolved!” and nobody even cringed.
+
+“You tracked a murderer using git,” Michael continued, “I couldn’t be prouder.”
+
+He gestured at the screen showing the team’s last pull request. A merge banner read:
+✔️ 504answer merged into main.
 Then, suddenly—
 
 “Ahem.”
