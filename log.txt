@@ -1,84 +1,57 @@
 ###Final Epic
 ##Previous Commits – A Brief Recap
 Michael Hess, beloved professor of SI 504, was brutally attacked during a stormy afternoon by a former student, Elijah, who had long vowed revenge after failing the final exam.
-
 The instructional team was wiped out.
-
 But not before Michael whispered one final prophecy:
-
 “My students… will solve this murder… with shell, with server, and with git…”
-
 Driven by that last wish, the students of SI 504 launched Project RESTORE, tracked Elijah down using git blame, grep, commit hashes, and their collective coding prowess.
-
 Justice was served.
-
 The spirit of 504 lived on.
-
 Or so they thought…
 ##New Commit – michael_rebase_returns()
 It was a quiet afternoon. Snow drifted against the windows of the SI 504 lecture hall.
 The class was gathered for a memorial read-aloud. On the wall hung a gilded portrait of Professor Hess, his gaze frozen in grayscale nobility.
 “Never left,” he said. “Not for vengeance. Not for regret.
 504 spirit never dies.”
-
 The room erupted.
-
 Students screamed. Some wept. Others high-fived across the room.
 A spontaneous standing ovation broke out. Someone yelled “merge conflict resolved!” and nobody even cringed.
-
 “You tracked a murderer using git,” Michael continued, “I couldn’t be prouder.”
-
 He gestured at the screen showing the team’s last pull request. A merge banner read:
 ✔️ 504answer merged into main.
 Then, suddenly—
-
 “Ahem.”
-
 A soft voice.
 A familiar voice.
 From the back of the room, stepping out from behind the curtain…
-
 Michael Hess. Alive.
-
 Gasps filled the room. One student fainted onto a pile of sticky notes.
-
 He walked slowly toward the blackboard, hands behind his back, the same way he always had before giving a final exam.
-
 He pushed up his glasses.
 ##Final Twist – grade-weight-adjustment()
 The class erupts into a victorious roar. A spontaneous terminal opens.
 Someone types:
-
 git commit -m "Final boss rebase: Michael returns"
 Then, the Canvas tab refreshes.
-
 A hush falls over the crowd.
-
 Someone squints at their screen and mutters:
-
 “Wait… my final grade says… 75.4%?”
-
 Gasps. Echoing mouse clicks. A chorus of refreshed tabs.
-
 Attendance: 40.54%
-
 Assignments: 96.25%
-
 Exams: 41%
-
 Final Assignment: Not Yet Graded
-
 A chill runs down everyone’s spine.
 The projector flickers once, dramatically.
-
 Someone screams.
 Michael smiled with that maddening professor-glint in his eye.
 He picked up a piece of chalk and wrote on the board:
-
 $ git commit -m "Life’s not always fair. But you always git push on."
 A hush fell again.
-
 Then, slowly, students nodded.
-
 And they understood.
-
+"You may fail a final. You may even lose a semester.
+But if you know how to document, collaborate, and version your life—
+you'll always be ready for the next commit."
+"You may beat the system. You may outwit death.
+But you'll never outscore Canvas grading."
