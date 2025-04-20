@@ -1,2 +1,17 @@
 ###Final Epic
+##Previous Commits – A Brief Recap
+Michael Hess, beloved professor of SI 504, was brutally attacked during a stormy afternoon by a former student, Elijah, who had long vowed revenge after failing the final exam.
 
+The instructional team was wiped out.
+
+But not before Michael whispered one final prophecy:
+
+“My students… will solve this murder… with shell, with server, and with git…”
+
+Driven by that last wish, the students of SI 504 launched Project RESTORE, tracked Elijah down using git blame, grep, commit hashes, and their collective coding prowess.
+
+Justice was served.
+
+The spirit of 504 lived on.
+
+Or so they thought…
