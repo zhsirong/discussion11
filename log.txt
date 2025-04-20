@@ -46,3 +46,29 @@ He walked slowly toward the blackboard, hands behind his back, the same way he a
 
 He pushed up his glasses.
 ##Final Twist – grade-weight-adjustment()
+The class erupts into a victorious roar. A spontaneous terminal opens.
+Someone types:
+
+bash
+Copy
+Edit
+git commit -m "Final boss rebase: Michael returns"
+Then, the Canvas tab refreshes.
+
+A hush falls over the crowd.
+
+Someone squints at their screen and mutters:
+
+“Wait… my final grade says… 75.4%?”
+
+Gasps. Echoing mouse clicks. A chorus of refreshed tabs.
+
+Attendance: 40.54%
+
+Assignments: 96.25%
+
+Exams: 41%
+
+Final Assignment: Not Yet Graded
+
+A chill runs down everyone’s spine.
