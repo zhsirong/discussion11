@@ -72,3 +72,16 @@ Exams: 41%
 Final Assignment: Not Yet Graded
 
 A chill runs down everyone’s spine.
+Michael smiled with that maddening professor-glint in his eye.
+He picked up a piece of chalk and wrote on the board:
+
+bash
+Copy
+Edit
+$ git commit -m "Life’s not always fair. But you always git push on."
+A hush fell again.
+
+Then, slowly, students nodded.
+
+And they understood.
+
