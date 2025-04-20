@@ -45,3 +45,4 @@ Gasps filled the room. One student fainted onto a pile of sticky notes.
 He walked slowly toward the blackboard, hands behind his back, the same way he always had before giving a final exam.
 
 He pushed up his glasses.
+##Final Twist – grade-weight-adjustment()
